@@ -1,4 +1,4 @@
-# Applying "Big eyebrows and Red Glasses Filter Filter" on an image.
+# Applying "Big eyebrows and Red Glasses Filter" on an image.
 
 Converting an image into a Big eyebrows and Red Glasses filtered image using Cv2 and Matplotlib library in python.
 
