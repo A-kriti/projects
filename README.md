@@ -1,4 +1,4 @@
-# projects
+# Snapchat Filter Projects
 
 ## Pirates Filter
 <img src="Pirates Filter/Images/pirate filtered image.png" height="300px">
